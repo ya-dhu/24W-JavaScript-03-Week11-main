@@ -20,13 +20,13 @@
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
-        "image": "https://github.com/ya-dhu/24W-JavaScript-03-Week11-main/blob/main/images/strawberry-sprinkle.svg"
+        "image": "images/strawberry-sprinkle.svg"
     }, {
             "name": "Vanilla Delight",
             "calories": 220,
             "type": "ice-cream",
             "ingredients": ["Vanilla Extract", "Whipped Cream", "Cherry"],
-            "image": "images/strawberry-sprinkle.svg"
+            "image": "https://ya-dhu.github.io/24W-JavaScript-03-Week11-main//images/ice-cream-xtra1.svg"
     }, {
             "name": "Vanilla Cookie Crumble",
             "calories": 290,
