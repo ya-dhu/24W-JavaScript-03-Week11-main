@@ -8,31 +8,31 @@
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
+        "image": "https://ya-dhu.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
+        "image": "https://ya-dhu.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+        "image": "https://ya-dhu.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
     }, {
             "name": "Vanilla Delight",
             "calories": 220,
             "type": "ice-cream",
             "ingredients": ["Vanilla Extract", "Whipped Cream", "Cherry"],
-            "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra1.svg"
+            "image": "https://ya-dhu.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra1.svg"
     }, {
             "name": "Vanilla Cookie Crumble",
             "calories": 290,
             "type": "ice-cream",
             "ingredients": ["Vanilla Extract", "Whipped Cream", "Cookie Crumble on Top"],
-            "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra2.svg"
+            "image": "https://ya-dhu.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra2.svg"
         }
     ]
 }
